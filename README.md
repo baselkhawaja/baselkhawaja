@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Basel!
+I am an Electrical Engineering student currently building skills in data analysis and visualization through hands-on projects.
 
-<!--
-**baselkhawaja/baselkhawaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* Electrical Engineering student
+* Interested in data analysis, problem-solving, and real-world applications
+* Currently working on data science internship projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+* Sales Performance Dashboard (Excel)
+* Customer Churn Analysis (Excel)
+
+## Skills
+
+* Microsoft Excel
+* Data Cleaning
+* Pivot Tables
+* Data Visualization
+* Analytical Thinking
+
+## Currently Learning
+
+* Data analysis techniques
+* Dashboard design
+* Applying data to engineering problems
+
+## Connect with Me
+
+* LinkedIn: www.linkedin.com/in/basel-khawaja-3a444b370
+
+
